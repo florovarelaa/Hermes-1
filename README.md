@@ -8,9 +8,10 @@ https://docs.google.com/document/d/1w7ZanFk6PSjb9eW0Zoqa22jhmXzirCL0uN9eGPRUSyc/
 --
 
 ### Prerequisites
-
+```
 nodejs has to be installed
 MongoDB has to be installed
+```
 
 ### Installing
 
