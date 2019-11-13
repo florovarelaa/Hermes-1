@@ -8,4 +8,4 @@ https://docs.google.com/document/d/1w7ZanFk6PSjb9eW0Zoqa22jhmXzirCL0uN9eGPRUSyc/
 You can clone or download this repo. Once you have done so, from the root directory of the repo, run:
 
 npm install
-node bin/serve
+npm start
